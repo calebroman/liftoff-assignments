@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 
 [User Login/Registration](https://files.slack.com/files-pri/T0221R8486Q-F02RF8F1R7H/secret_note_mvp_wireframe_-_view_2.png)
 
-[Dashboard](https://files.slack.com/files-pri/T0221R8486Q-F02SKJKN3U0/secret_note_mvp_wireframe_-_view_3.png)-
+[Dashboard](https://files.slack.com/files-pri/T0221R8486Q-F02SKJKN3U0/secret_note_mvp_wireframe_-_view_3.png)
 
 [Single Note View](https://files.slack.com/files-pri/T0221R8486Q-F02RY5NNZ6Y/secret_note_mvp_wireframe_-_view_4.png)
 
